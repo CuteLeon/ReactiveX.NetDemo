@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveX.NetDemo", "ReactiveX.NetDemo\ReactiveX.NetDemo.csproj", "{3936993F-AA2D-48F7-AD42-324AEDFB4CA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{206EF4C8-9A27-4DC2-B8FA-9E280442F3F8}"
+	ProjectSection(SolutionItems) = preProject
+		Document\Rx.NET-in-Action-2017-en.pdf = Document\Rx.NET-in-Action-2017-en.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3936993F-AA2D-48F7-AD42-324AEDFB4CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3936993F-AA2D-48F7-AD42-324AEDFB4CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3936993F-AA2D-48F7-AD42-324AEDFB4CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3936993F-AA2D-48F7-AD42-324AEDFB4CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EFADCB7-A0E4-4216-B2AE-3BBFB9F837D8}
+	EndGlobalSection
+EndGlobal
